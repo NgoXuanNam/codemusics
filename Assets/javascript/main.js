@@ -32,62 +32,62 @@ const app = {
         {
             name: 'Duyên Duyên Số Số',
             singer: 'Du Uyên x Nguyễn Phương x Đại Mèo',
-            path: './ListMusic/DuyenDuyenSoSoRemix_DuUyenxNguy.mp3',
-            image: './image/duyeduyensoso.jpg'
+            path: './Assets/ListMusic/DuyenDuyenSoSoRemix_DuUyenxNguy.mp3',
+            image: './Assets/image/duyeduyensoso.jpg'
         },
         {
             name: 'Anh yêu vội thế',
             singer: 'Lala Trần',
-            path: './ListMusic/AnhYeuVoiTheDaiMeoRemix_LaLaTran.mp3',
-            image: './image/anhyeuvoithe.jpg'
+            path: './Assets/ListMusic/AnhYeuVoiTheDaiMeoRemix_LaLaTran.mp3',
+            image: './Assets/image/anhyeuvoithe.jpg'
         },
         {
             name: 'Em ngốc quá',
             singer: 'Gia Huy',
-            path: './ListMusic/EmNgocQuaQinnRemix_Gia Huy_ Qinn.mp3',
-            image: './image/emngocqua.jpg'
+            path: './Assets/ListMusic/EmNgocQuaQinnRemix_Gia Huy_ Qinn.mp3',
+            image: './Assets/image/emngocqua.jpg'
         },
         {
             name: 'Cảm ơn vì tất cả',
             singer: 'Anh Quân Idol',
-            path: './ListMusic/CamOnViTatCa_NguyenAnh.mp3',
-            image: './image/camonvitatca.jpg'
+            path: './Assets/ListMusic/CamOnViTatCa_NguyenAnh.mp3',
+            image: './Assets/image/camonvitatca.jpg'
         },
         {
             name: 'Hoa tàn tình tan',
             singer: 'Giang Joole',
-            path: './ListMusic/HoaTanTinhTan_GiangJolee.mp3',
-            image: './image/hoatantinhtan.jpg'
+            path: './Assets/ListMusic/HoaTanTinhTan_GiangJolee.mp3',
+            image: './Assets/image/hoatantinhtan.jpg'
         },
         {
             name: 'Lỡ yêu người đậm sâu',
             singer: 'Linh Hương Luz',
-            path: './ListMusic/LoYeuNguoiDamSau_LinhHuongLuz.mp3',
-            image: './image/loyeunguoidamsau.jpg'
+            path: './Assets/ListMusic/LoYeuNguoiDamSau_LinhHuongLuz.mp3',
+            image: './Assets/image/loyeunguoidamsau.jpg'
         },
         {
             name: 'Nụ cười em là nắng',
             singer: 'Green',
-            path: './ListMusic/NuCuoiEmLaNang_Green.mp3',
-            image: './image/nucuoiemlanang.jpg'
+            path: './Assets/ListMusic/NuCuoiEmLaNang_Green.mp3',
+            image: './Assets/image/nucuoiemlanang.jpg'
         },
         {
             name: 'Ơi anh gì ơi',
             singer: 'Hana Cẩm Tiên',
-            path: './ListMusic/OiAnhGiOi_HanaCamTien.mp3',
-            image: './image/oianhgioi.jpg'
+            path: './Assets/ListMusic/OiAnhGiOi_HanaCamTien.mp3',
+            image: './Assets/image/oianhgioi.jpg'
         },
         {
             name: 'Thuyền Quyên',
             singer: 'Diệu Kiên',
-            path: './ListMusic/ThuyenQuyen_DieuKien.mp3',
-            image: './image/thuyenquyen.jpg'
+            path: './Assets/ListMusic/ThuyenQuyen_DieuKien.mp3',
+            image: './Assets/image/thuyenquyen.jpg'
         },
         {
             name: 'Xin má rước dâu',
             singer: 'Diệu Kiên',
-            path: './ListMusic/XinMaRuocDau_DieuKien.mp3',
-            image: './image/xinmaruocdau.jpg'
+            path: './Assets/ListMusic/XinMaRuocDau_DieuKien.mp3',
+            image: './Assets/image/xinmaruocdau.jpg'
         }
     ],
     
